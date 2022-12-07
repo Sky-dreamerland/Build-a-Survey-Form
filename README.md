@@ -1,5 +1,5 @@
 # Build-a-Survey-Form
-A https://www.freecodecamp.org/ project. 
+A personal https://www.freecodecamp.org/ project.
 Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
 User Stories:
