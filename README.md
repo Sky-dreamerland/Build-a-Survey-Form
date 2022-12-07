@@ -1,5 +1,5 @@
 # Build-a-Survey-Form
-A freecodecamp.org project. 
+A https://www.freecodecamp.org/ project. 
 Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
 User Stories:
@@ -19,5 +19,5 @@ Inside the form element, you should have a select dropdown element with an id of
 Inside the form element, you can select an option from a group of at least two radio buttons that are grouped using the name attribute
 Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute
 Inside the form element, you are presented with a textarea for additional comments
-Inside the form element, you are presented with a button with id of submit to submit all the inputs
+Inside the form element, you are presented with a button with id of submit to submit all the inputs.
 
